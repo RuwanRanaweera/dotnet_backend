@@ -1,0 +1,32 @@
+D:\TFS BK\MY\server\server\bin\Debug\netcoreapp2.2\server.deps.json
+D:\TFS BK\MY\server\server\bin\Debug\netcoreapp2.2\server.runtimeconfig.json
+D:\TFS BK\MY\server\server\bin\Debug\netcoreapp2.2\server.runtimeconfig.dev.json
+D:\TFS BK\MY\server\server\bin\Debug\netcoreapp2.2\server.dll
+D:\TFS BK\MY\server\server\obj\Debug\netcoreapp2.2\server.csprojAssemblyReference.cache
+D:\TFS BK\MY\server\server\obj\Debug\netcoreapp2.2\server.csproj.CoreCompileInputs.cache
+D:\TFS BK\MY\server\server\obj\Debug\netcoreapp2.2\server.RazorAssemblyInfo.cache
+D:\TFS BK\MY\server\server\obj\Debug\netcoreapp2.2\server.RazorAssemblyInfo.cs
+D:\TFS BK\MY\server\server\obj\Debug\netcoreapp2.2\server.AssemblyInfoInputs.cache
+D:\TFS BK\MY\server\server\obj\Debug\netcoreapp2.2\server.AssemblyInfo.cs
+D:\TFS BK\MY\server\server\obj\Debug\netcoreapp2.2\server.RazorTargetAssemblyInfo.cache
+D:\TFS BK\MY\server\server\bin\Debug\netcoreapp2.2\server.pdb
+D:\TFS BK\MY\server\server\obj\Debug\netcoreapp2.2\server.dll
+D:\TFS BK\MY\server\server\obj\Debug\netcoreapp2.2\server.pdb
+E:\Ionic\server\server\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\Ionic\server\server\bin\Debug\netcoreapp2.2\appsettings.json
+E:\Ionic\server\server\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+E:\Ionic\server\server\bin\Debug\netcoreapp2.2\ssss.deps.json
+E:\Ionic\server\server\bin\Debug\netcoreapp2.2\ssss.runtimeconfig.json
+E:\Ionic\server\server\bin\Debug\netcoreapp2.2\ssss.runtimeconfig.dev.json
+E:\Ionic\server\server\bin\Debug\netcoreapp2.2\ssss.dll
+E:\Ionic\server\server\bin\Debug\netcoreapp2.2\ssss.pdb
+E:\Ionic\server\server\obj\Debug\netcoreapp2.2\server.csprojAssemblyReference.cache
+E:\Ionic\server\server\obj\Debug\netcoreapp2.2\server.AssemblyInfoInputs.cache
+E:\Ionic\server\server\obj\Debug\netcoreapp2.2\server.AssemblyInfo.cs
+E:\Ionic\server\server\obj\Debug\netcoreapp2.2\server.csproj.CoreCompileInputs.cache
+E:\Ionic\server\server\obj\Debug\netcoreapp2.2\server.RazorAssemblyInfo.cache
+E:\Ionic\server\server\obj\Debug\netcoreapp2.2\server.RazorAssemblyInfo.cs
+E:\Ionic\server\server\obj\Debug\netcoreapp2.2\server.RazorTargetAssemblyInfo.cache
+E:\Ionic\server\server\obj\Debug\netcoreapp2.2\ssss.dll
+E:\Ionic\server\server\obj\Debug\netcoreapp2.2\ssss.pdb
+E:\Ionic\server\server\obj\Debug\netcoreapp2.2\server.genruntimeconfig.cache
